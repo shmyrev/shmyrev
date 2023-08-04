@@ -2,7 +2,7 @@
 
 ## 📊 Статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgorkiy&theme=github_dark)
+
 
 
 <!--
